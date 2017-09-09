@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.darklightning.watchit.Activities.MovieDetails">
+    <item
+        android:id="@+id/action_search_enter"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="search_enter"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="always"
+        />
+</menu>
